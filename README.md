@@ -1,4 +1,4 @@
-![myImage] (https://github.com/DewDropRS/DewDropRS/blob/main/github_profile_header.png)
+![myImage] (github_profile_header.png)
 
 
 - 🔭 I’m currently working on ... Tableau visualizations
